@@ -1,0 +1,28 @@
+BrowserSignal | Hosting quote worksheet
+Source: https://browsersignal.site/hosting/compare-hosting-plans.html
+Compare the same workload, currency and contract length. Record the quote date.
+
+Public workload and peak file size:
+Server-side or protected features:
+Required mailboxes:
+Provider / plan:
+Currency and tax treatment:
+Billing period and dates:
+                        First 12 months    Next 12 months
+Hosting base cost:
+Domain registration:
+Domain renewal:
+Mailbox charges:
+Other recurring fees:
+One-time costs:
+Total for each year:
+
+Two-year total = first 12 months + next 12 months
+Enter a charge only in the period it is actually billed.
+For multiyear prepayment, record what is due at purchase and the renewal date.
+
+What counts against transfer / function usage?
+What happens at the limit? What alerts are offered?
+Which party holds the domain registration?
+What can be exported and which services continue if hosting is cancelled?
+Record results for a nested page, a missing path, a rollback and any access controls.

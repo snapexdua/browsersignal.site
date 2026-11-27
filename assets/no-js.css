@@ -1,0 +1,8 @@
+.nav-button, .library-toolbar, #guide-count, .lab-actions, #ttl-form button, #request-samples { display: none; }
+@media (max-width: 830px) {
+  .site-header { position: static; }
+  .header-inner { flex-wrap: wrap; padding-block: .72rem; }
+  .nav { display: flex; position: static; flex-direction: row; flex-wrap: wrap; padding: 0; width: 100%; margin: 0; gap: .25rem .95rem; box-shadow: none; border: 0; background: transparent; }
+  .nav a { padding: .25rem 0; }
+}
+#pathfinder-form, #log-form .form-actions { display: none; }
